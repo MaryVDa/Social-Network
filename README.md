@@ -2,7 +2,7 @@
 
 ## Description
 
-## Install
+## Installation
 Packages to install:   
 ```npm i```   
 ```npm i express```   
