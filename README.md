@@ -2,6 +2,12 @@
 
 ## Description
 
+## Install
+Packages to install:   
+```npm i```   
+```npm i express```   
+```npm i mongoose```   
+
 ## User Story
 AS A social media startup   
 I WANT an API for my social network that uses a NoSQL database   
