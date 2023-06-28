@@ -2,13 +2,13 @@ const router = require('express').Router();
 
 const {
     getThoughts,
-    getSingleThought,
     createThought,
+    getSingleThought,
     updateThought,
     deleteThought,
     addReaction,
     deleteReaction
-} = require('../../controllers/thought-controller');
+} = require('../../controllers/thoughtController');
 
 router
     .route('/')

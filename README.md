@@ -7,6 +7,7 @@ Packages to install:
 ```npm i```   
 ```npm i express```   
 ```npm i mongoose```   
+```npm i moment```   
 
 ## User Story
 AS A social media startup   
