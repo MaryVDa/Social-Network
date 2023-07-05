@@ -13,6 +13,7 @@ Packages to install:
 ## Usage
 After installing the packages, enter in the terminal:   
 ```npm start```   
+Use insomnia to do the rest!
 
 ## User Story
 AS A social media startup   
