@@ -35,3 +35,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## GitHub
 https://github.com/MaryVDa/Social-Network
+
+## Credits
+I followed the coding bootcamp tutorial to get started as well as got help from a tutor.
