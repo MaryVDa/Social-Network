@@ -17,9 +17,9 @@ module.exports = {
     },
     createThought(req, res) {
         Thought.create(req.body)
-            .then((_id) => {
+            .then(({_id}) => {
                 return User.findOneAndUpdate(
-                    {_id: req.body.userId},
+                    {username: req.body.username},
                     {$push: {thoughts: _id}},
                     {new: true}
                 );

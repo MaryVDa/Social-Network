@@ -1,13 +1,18 @@
 # Social-Network
 
 ## Description
+An API for a social networking app that lets a user post thoughts, add friends, and react to friend's thoughts. This app is created using a MongoDB database, Express.js and Mongoose packages, and Insomnia.
 
 ## Installation
 Packages to install:   
 ```npm i```   
 ```npm i express```   
 ```npm i mongoose```   
-```npm i moment```   
+```npm i moment```
+
+## Usage
+After installing the packages, enter in the terminal:   
+```npm start```   
 
 ## User Story
 AS A social media startup   
